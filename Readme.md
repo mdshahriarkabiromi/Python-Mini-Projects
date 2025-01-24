@@ -11,7 +11,7 @@ Welcome to the Python Mini Projects repository! This is a collection of small Py
   - [Name Generator](#name-generator)
   - [PyPizza Delivery](#pypizza-delivery)
   - [Rollercoaster](#rollercoaster)
-  - [Treasure Island Game](#treasure-island-game)
+  - [Adventure Game](#adventure-game)
 - [Installation](#installation)
 - [Usage](#usage)
 - [Contributing](#contributing)
@@ -41,7 +41,7 @@ A program to simulate a pizza delivery system, complete with order management an
 ### Rollercoaster
 A simulation of a rollercoaster ride with various parameters and user interactions.
 
-### Treasure Island Game
+### Adventure Game
 An adventure game where users navigate through a series of choices to find a hidden treasure.
 
 ## Installation
