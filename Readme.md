@@ -12,6 +12,9 @@ Welcome to the Python Mini Projects repository! This is a collection of small Py
   - [PyPizza Delivery](#pypizza-delivery)
   - [Rollercoaster](#rollercoaster)
   - [Adventure Game](#adventure-game)
+  - [Password Generator](#password-generator)
+  - [QR Code Generator](#qr-code-generator)
+  - [Rock Paper Scissors](#rock-paper-scissors)
 - [Installation](#installation)
 - [Usage](#usage)
 - [Contributing](#contributing)
@@ -43,6 +46,15 @@ A simulation of a rollercoaster ride with various parameters and user interactio
 
 ### Adventure Game
 An adventure game where users navigate through a series of choices to find a hidden treasure.
+
+### Password Generator
+A tool that generates secure, random passwords based on user-defined criteria such as length and character types.
+
+### QR Code Generator
+A program to create QR codes from user input, which can be used for links, text, or any other data.
+
+### Rock Paper Scissors
+A simple implementation of the classic Rock-Paper-Scissors game where users can play against the computer.
 
 ## Installation
 
@@ -81,3 +93,6 @@ Each project has its own directory. To run a project, navigate to its directory 
 ```bash
 cd BMI_Calculator
 python main.py
+
+Contributing
+Contributions are welcome! If you have any ideas for new projects or improvements to existing ones, please open an issue or submit a pull request.
