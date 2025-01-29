@@ -1,8 +1,10 @@
 
 import qrcode
+import art
 from colorama import Fore, init
 init()
 
+print(art.logo)
 data = input("Enter the data to be stored in the QR code: ").strip()
 filename = input("\nEnter the filename for the QR code (no spaces or special characters): ").strip()
 
